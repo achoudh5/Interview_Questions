@@ -5,7 +5,9 @@ This is to help crack interview for all the students, any material is welcome. P
 
 
 
-# Add your name to Contibutor.md
+# Add your name to Hall of Contributor
+
+[I am a Contributor](https://github.com/achoudh5/Interview_Questions/blob/master/Contributor.md)
 
 # It would be nice if you
 
