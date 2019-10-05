@@ -3,7 +3,9 @@
 
 This is to help **crack interview** for all the students, **any material** is welcome. Prime focus is on **different types questions, tips and tricks.** This repo is pretty open, welcome to new suggestions and want people to contribute and learn at the same time. Grab that **T-Shirt** !!
 
+# Interview questions:
 
+https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 # Add your name to Hall of Contributor
 
