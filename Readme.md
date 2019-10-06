@@ -1,7 +1,12 @@
 # Interview_Questions
 
+This project will help students and job seekers prepare to crack coding interviews.
 
-This is to help **crack interview** for all the students, **any material** is welcome. Prime focus is on **different types questions, tips and tricks.** This repo is pretty open, welcome to new suggestions and want people to contribute and learn at the same time. Grab that **T-Shirt** !!
+**Any helpful material** is welcome, primarily focusing on various types of _interview questions_, and _tips and tricks_. 
+
+This repo is pretty open, welcoming new suggestions and contributions while learning at the same time. 
+
+_Grab that **T-Shirt** !!_
 
 
 
