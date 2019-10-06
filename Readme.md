@@ -6,7 +6,7 @@
 
 This repo is pretty open, welcoming new suggestions and contributions while learning at the same time. 
 
-(_Grab that **T-Shirt** !!_)[https://hacktoberfest.digitalocean.com/]
+[_Grab that **T-Shirt** !!_](https://hacktoberfest.digitalocean.com/)
 
 ---
 
