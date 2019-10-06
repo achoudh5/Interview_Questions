@@ -30,9 +30,3 @@ _Example:_
 No contribution is too small! 
 [Click to visit or add your name to the Contributor list](https://github.com/achoudh5/Interview_Questions/blob/master/Contributor.md)
 
-
-## It would be nice if you...
-
-- follow me [achoudh5](//github.com/achoudh5)
-- star this repository
-- share it with your friends
