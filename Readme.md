@@ -19,10 +19,10 @@ _For Example_
 - What skills are highlighted by this question?
 - Recommended resources for solving this question
 - What was the result of your experience? 
-- - What answer did you give and was it correct?
-- - Were you ultimately successful (did you get the job)? 
-- - If you got the job, can you be a resource in connecting future applicants to HR or answering questions at your company? 
-- - - Company name 
+    - What answer did you give and was it correct?
+    - Were you ultimately successful (did you get the job)? 
+    - If you got the job, can you be a resource in connecting future applicants to HR or answering questions at your company? 
+        - Company name 
 
 
 ## _Hall of Contributors_
