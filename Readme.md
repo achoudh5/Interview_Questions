@@ -5,9 +5,8 @@ This is to help **crack interview** for all the students, **any material** is we
 
 Long Term Goal: Make an open source website (which is one of the issue) for this repo
 
-# Add your name to Hall of Contributor
 
-## **No Contribution is small**, Click below
+### **No Contribution is small**, add your name to the *Hall of Contributor*
 
 [I am a Contributor](https://github.com/achoudh5/Interview_Questions/blob/master/Contributor.md)
 
