@@ -10,12 +10,11 @@ This repo is pretty open, welcoming new suggestions and contributions while lear
 
 ---
 
-# Add your name to Hall of Contributor
+## Add your name to Hall of Contributors
+[Click to visit or update the Contributor list](https://github.com/achoudh5/Interview_Questions/blob/master/Contributor.md)
 
-## Click below
-[I am a Contributor](https://github.com/achoudh5/Interview_Questions/blob/master/Contributor.md)
-
-# It would be nice if you
+---
+## It would be nice if you
 
 - follow me [achoudh5](//github.com/achoudh5)
 - star this repository
