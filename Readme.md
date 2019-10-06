@@ -13,7 +13,8 @@ This repo is pretty open, welcoming new suggestions and contributions while lear
 
 ## Submit an Interview Question 
 Find the relevant folder (or suggest a new one) and submit your Q & A:
-_For Example_ 
+
+_Example:_ 
 - Question
 - Answer/links/example
 - What skills are highlighted by this question?
